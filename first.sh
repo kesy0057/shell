@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "test"
-date = `date`
-echo $date
+date01 = `date`
+echo $date01
